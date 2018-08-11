@@ -1,0 +1,23 @@
+.fontnen {
+    background-image: url("bg.jpg")
+}
+
+.a1 {
+    margin-top: 25px;
+}
+
+.a2 {
+    margin-right: 50px;
+}
+
+.clock {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+.img1 {
+    transition: 0.5s;
+}
+.img1:hover{
+    transform: scale(1.2);
+}
